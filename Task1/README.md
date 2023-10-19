@@ -6,6 +6,8 @@
 To be able to the the jupyter notebook, first download the h5 weight file from: https://drive.google.com/file/d/10xPcy598fQ6URpfAcrWYVpsv225ISdMZ/view?usp=sharing (yolo.h5)
 and add it to the data folder. 
 
+The folder images/test includes the test images, and the images/res contains all the resulting images after object detection.
+
 # Youtube Video:
 [![Video](https://img.youtube.com/vi/1pd85bH9OJ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=1pd85bH9OJ8)
 
