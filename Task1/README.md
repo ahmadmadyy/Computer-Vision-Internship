@@ -3,5 +3,5 @@
 ## Ahmed Mady, Computer Vision Intern, The Sparks Foundation
 
 ## In this repo, a trained YOLOv3 model on COCO Dataset is presented. This model classifies objects based on more than 60 classes of objects.
-To be able to the the jupyter notebook, first download the h5 weight file from: https://drive.google.com/file/d/10xPcy598fQ6URpfAcrWYVpsv225ISdMZ/view?usp=sharing
+To be able to the the jupyter notebook, first download the h5 weight file from: https://drive.google.com/file/d/10xPcy598fQ6URpfAcrWYVpsv225ISdMZ/view?usp=sharing (yolo.h5)
 and add it to the data folder. 
